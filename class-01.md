@@ -8,3 +8,4 @@
 - Introduction
 - JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
+#### HTML Chapter 1: “Structure” (pp.12-39)
