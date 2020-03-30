@@ -30,9 +30,42 @@ Vocab
 - opening tags can carry **attributes** 
 - HTML **comments** can be added between &lt;!-- *comments go here* -->
 - take it one step at a time... use the **card sorting** method to help design a **site map**
+- Design is about communication:
+  - differentiate between pieces of information using *size, color, & style*
+  - simplify information using *grouping & similarity
 
 Noteworthy 
-- Traditional vs HTML 5 layout *examples page 432
+- Traditional vs HTML 5 layout *examples p. 432*
+
 - HTML 5 elements indicate different parts and help to describe its structure
 - Good **navigation** follows these principles: *Concise, Clear, Selective, Context, Interactive, Consistent*
-- Getting Your Message Across Using Design *examples p.465-473
+- Getting Your Message Across Using Design *examples p.465-473*
+
+### JavaScript
+Vocab
+- **script** series of instructions
+- **vocabulary** words that computers understand
+- **syntax** how vocabulary is put together to create instructions computers can read
+- **programattically** following series of instructions one after another
+- **object** each 'physical thing' in a computer world *example p. 28*
+    - **type** subcategory of object
+    - **instance** one time that an object is noted
+    - **property** "name = value" *requires both* characteristics of an object
+- **event** when something happens... *do this*
+- **method** things that get done to objects
+- **DOM** **D**ocument **O**bject **M**odel *examples chapter 5*
+
+*Remember...*
+- ***Use a flowchart*** when designing the script *example p. 18*
+- Need to **link .js with HTML**? link javascript file from an HTML page *example p. 47*
+- JS *stops* to load as it hits a &lt;script>, then checks to see if it needs to do anything
+
+- "**object**"**.**"**method**"("**parameters**"); *example p. 50*
+
+Noteworthy 
+- HTML *content* | CSS *presentation* | JavaScript *behavior*
+- Steps to writing a script
+  1. Define the Goal
+  2. Design the Script
+  3. Code Each Step
+
