@@ -12,18 +12,12 @@ Vocab
 - **structural elements** describe the structure of the page
 - **semantic elements** where emphasis is placed, definitions of acronyms, when text is a quote, etc.
 
-*Remember...*
-- fda
-
 Noteworthy 
 - HTML elements provide **structure** and **semantic** information
 
 ### JavaScript
 Vocab
-- **
-
-*Remember...*
-- fd
+- **code block** information between { }
 
 Noteworthy 
-- f
+- Expressions evaluate into a *single* value
