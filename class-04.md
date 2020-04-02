@@ -6,7 +6,7 @@
 - Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 - Article https://www.codefellows.org/blog/6-reasons-for-pair-programming/ “6 Reasons for Pair Programming”
 
-###HTML & CSS
+### HTML & CSS
 Vocab
 - **relative URLs** where a page is in relation to *current* page  *examples p 84*
 - **block elements** start a new line
@@ -18,7 +18,7 @@ Vocab
 Noteworthy
 - **containing elements** *examples p 362*
 
-###JS
+### JS
 
 *Remember*
 - variables *within* a function scope *do not* interfer with outside variables
