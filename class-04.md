@@ -8,10 +8,22 @@
 
 ###HTML & CSS
 Vocab
+- **relative URLs** where a page is in relation to *current* page  *examples p 84*
+- **block elements** start a new line
+- **inline elements** *flow* between surrounding text
+
 *Remember*
+- consider the *screen resolution* for the target audience
+
 Noteworthy
+- **containing elements** *examples p 362*
 
 ###JS
-Vocab
+
 *Remember*
+- variables *within* a function scope *do not* interfer with outside variables
+
 Noteworthy
+- **declaring a function** function functionName() { code block; }
+- **calling a function** functionName();
+- More complex examples *p 92-95
