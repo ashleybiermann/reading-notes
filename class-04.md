@@ -11,9 +11,13 @@ Vocab
 - **relative URLs** where a page is in relation to *current* page  *examples p 84*
 - **block elements** start a new line
 - **inline elements** *flow* between surrounding text
+- **fixed width layout** designs *do not change* with size of browser window. measurement tends to be **pixels**
+- **liquid layout** designs *stretch and contract* with size of browser window. measurement tends to be **percentages**
+- **grid layout** put elements in a grid *examples p 389*
 
 *Remember*
 - consider the *screen resolution* for the target audience
+- pages can have *multiple style sheets*
 
 Noteworthy
 - **containing elements** *examples p 362*
