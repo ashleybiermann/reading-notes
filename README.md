@@ -4,6 +4,7 @@
 [class-01](class-01.md)
 [class-02](class-02.md)
 [class-03](class-03.md)
+[class-04](class-04.md)
 
 ## Code 301 - *Intermediate Software Development*
 ## Code 401 - *Advanced Software Development*
