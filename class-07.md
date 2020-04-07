@@ -6,7 +6,7 @@
 
 ### HTML & CSS
 Vocab
-- **<table>** "table"
+- **`<table>`** "table"
 - **<tr>** "table row"
 - **<td>** "table data" cells inside of <tr> or <th>
 - **<th>** "table header"
@@ -17,7 +17,7 @@ Vocab
 
 Noteworthy
 - **<tbody> , <thead>, <tfoot>** can *split* long tables into sections
- 
+
 ### JavaScript
 Vocab
 - **built-in objects** Browser Object Model; Document Object Model; Global Javascript Object *example p 123*
