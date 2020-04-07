@@ -29,7 +29,7 @@ Vocab
   - *best* to **store elements** using **array syntax** *example p199* ... var firstItem = elements[0];
 - Need to *repeat actions* for an *entire* nodelist? **loop** through the node. *example p 204/5*
 - **No two** elements can *share the same value* for their **id attribute**
-- **element nodes** can be selected by *id* or *class* attributes, *tag name*, or by using *CSS selector syntax*
+- **element nodes** can be selected by *id* or *class* attributes, *tag name*, or by using *CSS selector syntax*git
 
 
 Noteworthy
