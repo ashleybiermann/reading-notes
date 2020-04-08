@@ -14,6 +14,9 @@ Vocab
 - **fixed width layout** designs *do not change* with size of browser window. measurement tends to be **pixels**
 - **liquid layout** designs *stretch and contract* with size of browser window. measurement tends to be **percentages**
 - **grid layout** put elements in a grid *examples p 389*
+  - **960 pixel grid** widely used grid layout
+- **container** or **parent element** a box that contains other block-level element(s)
+- **box offset** tells browser how far from top or bottom, left or right you want the box to be
 
 *Remember*
 - consider the *screen resolution* for the target audience
@@ -21,6 +24,7 @@ Vocab
 
 Noteworthy
 - **containing elements** *examples p 362*
+- **z-index** property lets you control which box is on top
 
 ### JS
 
