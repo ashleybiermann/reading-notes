@@ -11,4 +11,4 @@ Vocab
 - JS interprets *one line* of code at a time; when *new data is needed* from another function, it ***stacks*** on top of current task
 
 Noteworthy
-- can use **`try,` `catch`, `finally`statements ** to handle exceptions *example p481*
+- can use **`try,` `catch`, `finally`statements** to handle exceptions *example p481*
