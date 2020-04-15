@@ -2,7 +2,7 @@
 #### Assorted bits of documentation
 #### Articles on the Canvas API
 
-### [Chart.js docs: You’ll be needing these!](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/){:target="_blank")
+### [Chart.js docs: You’ll be needing these!](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 - gives instructions on how to make a chart
 - provides a demo and a written example script
 
