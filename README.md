@@ -14,6 +14,8 @@
 [class-11](class-11.md)
 [class-12](class-12.md)
 [class-13](class-13.md)
+[class-14](class-14.md)
+[class-15](class-15.md)
 
 ## Code 301 - *Intermediate Software Development*
 ## Code 401 - *Advanced Software Development*
