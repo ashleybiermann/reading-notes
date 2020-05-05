@@ -19,6 +19,8 @@
 
 ## Code 301 - *Intermediate Software Development*
 [class-01](read-01.md)
+[class-02](read-02.md)
+
 ## Code 401 - *Advanced Software Development*
 
 :computer: :musical_note: :dog:
