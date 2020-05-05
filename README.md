@@ -18,8 +18,8 @@
 [class-15](class-15.md)
 
 ## Code 301 - *Intermediate Software Development*
-[class-01](read-01.md)
-[class-02](read-02.md)
+[class-01: SMACSS and Responsive Web Design](read-01.md)
+[class-02: jQuery, Events, and The DOM](read-02.md)
 
 ## Code 401 - *Advanced Software Development*
 
