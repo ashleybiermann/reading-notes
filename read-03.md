@@ -3,11 +3,11 @@
 - [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
-##[Templating with Mustache](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
+## [Templating with Mustache](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
 
-##[A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+## [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-##[Flexbox Froggy](https://flexboxfroggy.com/)
+## [Flexbox Froggy](https://flexboxfroggy.com/)
 - `**justify-content:**` aligns flex items along main axis
 > `flex-start` *default* `flex-end` `center` `space-between` `space-around`
 - `**flex-direction:**` defines direction of main axis
