@@ -22,4 +22,4 @@ Bookmark/Skim
 - **CDN** Content Delivery Network. series of servers spread out around the world designed to serve static files (HTML, CSS, JS, images, audio, video) very quickly
   - **fallback** including a stored version of jQuery on your own servers in case it doesn't load from another remote server
 - **protocol relative URL** when a script starts with two forward slashed `script src="//...`
-- **CDN script placement** *before the `/body` tag
+- **CDN script placement** *before the `/body` tag n
