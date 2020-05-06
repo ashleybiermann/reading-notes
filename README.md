@@ -18,9 +18,9 @@
 [class-15](class-15.md)
 
 ## Code 301 - *Intermediate Software Development*
-[class-01: SMACSS and Responsive Web Design](read-01.md)
-[class-02: jQuery, Events, and The DOM](read-02.md)
-[class-03: MUSTACHE and FLEXBOX](read-03.md)
+[class-01: SMACSS and Responsive Web Design](read-01.md) <br>
+[class-02: jQuery, Events, and The DOM](read-02.md) <br>
+[class-03: MUSTACHE and FLEXBOX](read-03.md) <br>
 
 ## Code 401 - *Advanced Software Development*
 
