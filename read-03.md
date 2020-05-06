@@ -4,6 +4,11 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ## [Templating with Mustache](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
+- **Javascript Templating** technique to render client-side view templates with JS by using JSON data source
+- **Mustache** is a *logic-less* template syntax. 
+> No if statements, else clauses, or for loops - Only **tags**
+> Is a specification for a templating language...*Not* a templating engine
+- Mustache-Express lets you use Mustache (mustache with Node) and Express together
 
 ## [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
