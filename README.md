@@ -22,6 +22,9 @@
 [class-02: jQuery, Events, and The DOM](read-02.md) <br>
 [class-03: MUSTACHE and FLEXBOX](read-03.md) <br>
 [class-04: Responsive Web Design and Regular Expressions](read-04.md) <br>
+[class-05: HEROKU](read-05.md) <br>
+[class-06: Node, Express, and APIs](read-06.md) <br>
+
 
 ## Code 401 - *Advanced Software Development*
 
