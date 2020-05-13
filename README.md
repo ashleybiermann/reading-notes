@@ -25,7 +25,7 @@
 [class-05: HEROKU](read-05.md) <br>
 [class-06: Node, Express, and APIs](read-06.md) <br>
 [class-07: REST](read-07.md) <br>
-[class-08: REST](read-08.md) <br>
+[class-08: SQL](read-08.md) <br>
 
 ## Code 401 - *Advanced Software Development*
 
