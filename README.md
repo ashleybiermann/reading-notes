@@ -26,6 +26,7 @@
 [class-06: Node, Express, and APIs](read-06.md) <br>
 [class-07: REST](read-07.md) <br>
 [class-08: SQL](read-08.md) <br>
+[class-09: Refactoring](read-09.md) <br>
 
 ## Code 401 - *Advanced Software Development*
 
