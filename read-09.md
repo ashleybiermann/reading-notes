@@ -12,4 +12,4 @@ Easier to test
 Strategies
 - Return early from functions
 - Cache variables so functions can be read like sentences
-- Check for Web APIs before implementing your own functionality:
+- Check for Web APIs before implementing your own functionality
