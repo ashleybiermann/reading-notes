@@ -15,16 +15,16 @@ Since the call stack is single, function(s) execution, is done, one at a time, f
 **stack overflow** occurs when there is a recursive function (a function that calls itself) without an exit point.
 
 ### [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
-**Reference Errors**
-`console.log(foo) // Uncaught ReferenceError: foo is not defined`
->when you try to use a variable that is not yet declared
-`foo = 'Hello' // Uncaught ReferenceError: foo is not defined`
-`let foo`
->there is a time between the hoisting and being declared so when you try to access them a reference error occurs
->the fact that this happens to let and const is called Temporal Dead Zone (TDZ).
-**Syntax Errors** - see link for more detailed descriptions
-**Range Errors**
-**Type Errors**
+**Reference Errors** <br>
+`console.log(foo) // Uncaught ReferenceError: foo is not defined`<br>
+>when you try to use a variable that is not yet declared<br>
+`foo = 'Hello' // Uncaught ReferenceError: foo is not defined`<br>
+`let foo`<br>
+>there is a time between the hoisting and being declared so when you try to access them a reference error occurs<br>
+>the fact that this happens to let and const is called Temporal Dead Zone (TDZ). <br>
+**Syntax Errors** - see link for more detailed descriptions<br>
+**Range Errors**<br>
+**Type Errors**<br>
 
 **Debugging** 
 - Use the console inspector
