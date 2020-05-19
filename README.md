@@ -29,6 +29,7 @@
 [class-09: Refactoring](read-09.md) <br>
 [class-10: The Call Stack](read-10.md) <br>
 [class-11: EJS](read-11.md) <br>
+[class-12: EJS Partials](read-12.md) <br>
 
 ## Code 401 - *Advanced Software Development*
 
