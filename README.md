@@ -40,3 +40,4 @@
 [Node Ecosystem, TDD, CI/CD](401-01.md) <br>
 [Classes, Inheritance, Functional Programming](401-02.md) <br>
 [Data Modeling & NoSQL Databases](401-03.md) <br>
+[Advanced Mongo/Mongoose](401-04.md) <br>
