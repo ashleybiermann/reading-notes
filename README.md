@@ -47,3 +47,5 @@
 [Express Routing & Connected API](401-08.md) <br>
 [API Server](401-09.md) <br>
 [Implementation: Stacks and Queues](401-10.md) <br>
+[Authentication](401-11.md) <br>
+
