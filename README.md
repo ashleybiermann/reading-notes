@@ -48,4 +48,6 @@
 [API Server](401-09.md) <br>
 [Implementation: Stacks and Queues](401-10.md) <br>
 [Authentication](401-11.md) <br>
+[OAuth](401-12.md) <br>
+[](401-13.md) <br>
 
