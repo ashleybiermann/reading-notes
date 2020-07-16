@@ -57,10 +57,10 @@
 [Socket.io](401-18.md) <br>
 [Message Queues](401-19.md) <br>
 [Component Based UI](401-20.md) <br>
-[](401-21.md) <br>
-[](401-22.md) <br>
-[](401-23.md) <br>
-[](401-24.md) <br>
+[React Testing and Deployment](401-21.md) <br>
+[Props and State](401-22.md) <br>
+[Component Composition](401-23.md) <br>
+[Hash Tables](401-24.md) <br>
 [](401-25.md) <br>
 [](401-26.md) <br>
 [](401-27.md) <br>
