@@ -61,11 +61,11 @@
 [Props and State](401-22.md) <br>
 [Component Composition](401-23.md) <br>
 [Hash Tables](401-24.md) <br>
-[](401-25.md) <br>
-[](401-26.md) <br>
-[](401-27.md) <br>
-[](401-28.md) <br>
-[](401-29.md) <br>
+[Hooks API](401-25.md) <br>
+[Custom Hooks](401-26.md) <br>
+[Context API](401-27.md) <br>
+[`<Login />` and `<Auth />`](401-28.md) <br>
+[Graphs](401-29.md) <br>
 [](401-30.md) <br>
 [](401-31.md) <br>
 [](401-32.md) <br>
