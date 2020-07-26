@@ -66,7 +66,7 @@
 [Context API](401-27.md) <br>
 [`<Login />` and `<Auth />`](401-28.md) <br>
 [Graphs](401-29.md) <br>
-[](401-30.md) <br>
+[Application State with Redux](401-30.md) <br>
 [](401-31.md) <br>
 [](401-32.md) <br>
 [](401-33.md) <br>
