@@ -68,7 +68,7 @@
 [Graphs](401-29.md) <br>
 [Application State with Redux](401-30.md) <br>
 [Redux - Combined Reducers](401-31.md) <br>
-[](401-32.md) <br>
+[Redux - Asynchronous Actions](401-32.md) <br>
 [](401-33.md) <br>
 [](401-34.md) <br>
 [](401-35.md) <br>
