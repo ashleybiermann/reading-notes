@@ -71,7 +71,7 @@
 [Redux - Asynchronous Actions](401-32.md) <br>
 [Redux - Additional Topics](401-33.md) <br>
 [React Native](401-34.md) <br>
-[](401-35.md) <br>
+[Gatsby, next.js, and other JS Frameworks](401-35.md) <br>
 [](401-36.md) <br>
 [](401-37.md) <br>
 [](401-38.md) <br>
